@@ -28,7 +28,7 @@ Graduated in Computer Technician at Etec Lauro Gomes, with emphasis on programmi
 
 ## Projetos:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Uma análise de dados do Airbnb - New York:** https://bit.ly/2L2cMwy
 
 ---
 
