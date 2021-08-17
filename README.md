@@ -28,7 +28,7 @@ Graduated in Computer Technician at Etec Lauro Gomes, with emphasis on programmi
 
 ## Projetos:
 
-* **Uma análise de dados do Airbnb - New York:** https://bit.ly/2L2cMwy
+* **Uma análise de dados do Airbnb - New York:** https://bit.ly/2XoHCIs
 
 ---
 
